@@ -18,4 +18,4 @@ The Assistant leverages Unity Catalog / Workspace content to understand your tab
 
 #### Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9REIGKkAVo?si=27CSbIvzFNxj6vkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/g9REIGKkAVo?si=LBKGzrUjFu6J-EFb
